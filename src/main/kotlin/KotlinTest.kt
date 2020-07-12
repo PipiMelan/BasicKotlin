@@ -23,9 +23,15 @@ fun main() {
     }
 }
 
+
+
+
+
+
+
         //higher-order function 高阶函数
 fun load(req:(String)->Unit){
-
+    println("AAAA")
 }
 
 
